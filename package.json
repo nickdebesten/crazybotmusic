@@ -2,10 +2,10 @@
   "name": "nick",
   "version": "1.0.0",
   "description": "create by nick",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "Echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
+    "start": "node server.js",
     "install": "node-gyp rebuild"
   },
   "author": "nick",
